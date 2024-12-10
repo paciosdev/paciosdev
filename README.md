@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there! 👋 I'm Francesco!
 
-<!--
-**paciosdev/paciosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 😄
+I'm a passionate **iOS Developer** 📱, on a mission to craft delightful and functional apps for Apple devices. With expertise in **Swift** 🦅 and **SwiftUI** 🎨, I thrive on turning creative ideas into robust solutions. Whether it's animations, seamless navigation, or elegant user interfaces, I've got you covered!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Toolkit 🛠️
+Here are some of the frameworks and tools I love to work with:
+
+- **Swift** 🦅 
+- **SwiftUI** 🎨
+- **Core Data** 📊
+- **Combine** ⚙️
+- **MapKit** 🗺️
+- **ARKit** 🌟
+- **WidgetKit** 🖼️
+
+---
+
+## What You’ll Find Here 🚀
+My GitHub is a showcase of my journey through iOS development. Here, you can find:
+
+- **Open-source projects** 🛠️
+- **Swift Playground experiments** 🤓
+- **Reusable components** 🔧
+
+---
+
+## Let’s Connect! 🌐
+I'm always open to collaborations, discussions, or even casual chats about iOS development. Feel free to reach out or connect with me:
+
+- **LinkedIn**: [https://www.linkedin.com/in/paciosdev/](#) 🔗
+- **Twitter**: [https://x.com/paciosdev](#) 🐦
+- **Email**: paciosdev@icloud.com ✉️
+
+---
+
+### Fun Fact 🥳
+When I'm not coding, you’ll probably find me exploring mangas, books, or brainstorming the next app idea! 💭
+
+---
+
+Thanks for stopping by! 🌟
+
