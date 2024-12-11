@@ -17,6 +17,7 @@ Here are some of the frameworks and tools I love to work with:
 - **WidgetKit** 🖼️
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paciosdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&card_width=500&background=56%2C0EEBE9%2C078BEB)
 
 ## What You’ll Find Here 🚀
 My GitHub is a showcase of my journey through iOS development. Here, you can find:
